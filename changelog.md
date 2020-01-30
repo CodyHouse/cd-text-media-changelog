@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.1.0] - 2020-01-30
+- Simplified component used new util classes
+
 ## [1.0.4] - 2019-08-29
 - Added new variation: --invert
 
